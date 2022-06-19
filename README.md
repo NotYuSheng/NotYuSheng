@@ -20,7 +20,7 @@
   &nbsp;
   <a href="" title="CSS"><img src="svgs/CSS.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="" title="JavaScript"><img src="svgs/JavaScript.svg" width="auto" /></a>
+  <a href="" title="JavaScript"><img src="svgs/JavaScript.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="" title="React"><img src="svgs/React.svg" height="35" width="auto" /></a>
   &nbsp;
