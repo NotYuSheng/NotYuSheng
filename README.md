@@ -6,6 +6,7 @@
 
 ## Languages & Technologies
 
+<!-- Logos from https://seeklogo.com/>
 <p align="center">
   <a href="" title="C++"><img src="svgs/C++.svg" height="35" width="auto" /></a>
   &nbsp;
