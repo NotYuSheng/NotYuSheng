@@ -8,6 +8,8 @@
 
 <!-- Logos from https://seeklogo.com/ -->
 <p align="center">
+  <a href="" title="Python"><img src="svgs/Python.svg" height="35" width="auto" /></a>
+  &nbsp;
   <a href="" title="C++"><img src="svgs/C++.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="" title="C"><img src="svgs/C.svg" height="35" width="auto" /></a>
@@ -27,8 +29,6 @@
   <a href="" title="Google Cloud Platform"><img src="svgs/Google-Cloud-Platform.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="" title="Firebase"><img src="svgs/Firebase.svg" height="35" width="auto" /></a>
-  &nbsp;
-  <a href="" title="Python"><img src="svgs/Python.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="" title="Git"><img src="svgs/Git.svg" height="35" width="auto" /></a>
   &nbsp;
