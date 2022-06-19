@@ -39,6 +39,5 @@
   <a href="" title="Fusion 360"><img src="svgs/Fusion-360.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="" title="Unity"><img src="svgs/Unity.svg" height="35" width="auto" /></a>
-  &nbsp;
 </p>
 
