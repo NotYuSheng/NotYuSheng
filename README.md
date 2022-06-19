@@ -11,7 +11,7 @@
   &nbsp;
   <a href="" title="C"><img src="svgs/C.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="" title="C#"><img src="svgs/C#.svg" height="35" width="auto" /></a>
+  <a href="" title="C#"><img src="svgs/CSharp.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="" title="Bash"><img src="svgs/Bash.svg" height="35" width="auto" /></a>
   &nbsp;
