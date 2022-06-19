@@ -10,9 +10,9 @@
 <p align="center">
   <a href="" title="Python"><img src="svgs/Python.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="" title="C++"><img src="svgs/C++.svg" height="35" width="auto" /></a>
-  &nbsp;
   <a href="" title="C"><img src="svgs/C.svg" height="35" width="auto" /></a>
+  &nbsp;
+  <a href="" title="C++"><img src="svgs/C++.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="" title="C#"><img src="svgs/CSharp.svg" height="35" width="auto" /></a>
   &nbsp;
