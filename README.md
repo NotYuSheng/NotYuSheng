@@ -1,6 +1,8 @@
 ### Hello! I'm Yu Sheng
 
-<img src="https://github-readme-stats.vercel.app/api?username=notyusheng&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=notyusheng&show_icons=true"/> 
+
+<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/NotYuSheng) -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=notyusheng"/>
 
