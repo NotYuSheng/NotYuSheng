@@ -41,5 +41,9 @@
   <a href="" title="Fusion 360"><img src="svgs/Fusion-360.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="" title="Unity"><img src="svgs/Unity.svg" height="35" width="auto" /></a>
+    &nbsp;
+  <a href="" title="Android Studio"><img src="svgs/Android-Studio.svg" height="35" width="auto" /></a>
+    &nbsp;
+  <a href="" title="XML"><img src="svgs/XML.svg" height="35" width="auto" /></a>
 </p>
 
