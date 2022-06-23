@@ -30,8 +30,10 @@
   &nbsp;
   <a href="" title="SQL"><img src="svgs/SQL.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="" title="React"><img src="svgs/React.svg" height="35" width="auto" /></a>
+  <a href="" title="Bootstrap"><img src="svgs/Bootstrap.svg" height="35" width="auto" /></a>
   &nbsp;
+<!--   <a href="" title="React"><img src="svgs/React.svg" height="35" width="auto" /></a>
+  &nbsp; -->
   <a href="" title="Google Cloud Platform"><img src="svgs/Google-Cloud-Platform.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="" title="Firebase"><img src="svgs/Firebase.svg" height="35" width="auto" /></a>
