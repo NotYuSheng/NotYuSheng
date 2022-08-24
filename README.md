@@ -18,9 +18,9 @@
   &nbsp;
   <a href="" title="C#"><img src="svgs/CSharp.svg" height="35" width="auto" /></a>
   &nbsp;
-<!--   <a href="" title="Bash"><img src="svgs/Bash.svg" height="35" width="auto" /></a>
+  <a href="" title="Bash"><img src="svgs/Bash.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="" title="HTML"><img src="svgs/HTML.svg" height="35" width="auto" /></a> -->
+  <a href="" title="HTML"><img src="svgs/HTML.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="" title="CSS"><img src="svgs/CSS.svg" height="35" width="auto" /></a>
   &nbsp;
