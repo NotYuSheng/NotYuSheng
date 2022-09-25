@@ -52,8 +52,8 @@
   &nbsp;
   <a href="" title="XML"><img src="svgs/XML.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="" title="VMWare"><img src="svgs/VMWare.svg" height="35" width="auto" /></a>
-  &nbsp;
+<!--   <a href="" title="VMWare"><img src="svgs/VMWare.svg" height="35" width="auto" /></a>
+  &nbsp; -->
   <a href="" title="Jupyter Notebook"><img src="svgs/Jupyter.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="" title="Arduino"><img src="svgs/Arduino.svg" height="35" width="auto" /></a>
