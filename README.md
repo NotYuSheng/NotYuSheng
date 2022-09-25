@@ -35,15 +35,11 @@
 <!--   <a href="" title="VMWare"><img src="svgs/VMWare.svg" height="35" width="auto" /></a>
   &nbsp; -->
   <a href="" title="Jupyter Notebook"><img src="svgs/Jupyter.svg" height="35" width="auto" /></a>
-  &nbsp;
-  <a href="" title="Arduino"><img src="svgs/Arduino.svg" height="35" width="auto" /></a>
-  &nbsp;
-  <a href="" title="Raspberry Pi"><img src="svgs/Raspberry-Pi.svg" height="35" width="auto" /></a>
 </p>
 
 ## Software
 <p align="center">
-    <a href="" title="Bootstrap"><img src="svgs/Bootstrap.svg" height="35" width="auto" /></a>
+  <a href="" title="Bootstrap"><img src="svgs/Bootstrap.svg" height="35" width="auto" /></a>
   &nbsp;
 <!--   <a href="" title="React"><img src="svgs/React.svg" height="35" width="auto" /></a>
   &nbsp; -->
@@ -63,4 +59,7 @@
   &nbsp;
   <a href="" title="Android Studio"><img src="svgs/Android-Studio.svg" height="35" width="auto" /></a>
   &nbsp;
+  <a href="" title="Arduino"><img src="svgs/Arduino.svg" height="35" width="auto" /></a>
+  &nbsp;
+  <a href="" title="Raspberry Pi"><img src="svgs/Raspberry-Pi.svg" height="35" width="auto" /></a>
  </p>
