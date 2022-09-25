@@ -42,7 +42,7 @@
 </p>
 
 ## Software
-<p>
+<p align="center">
     <a href="" title="Bootstrap"><img src="svgs/Bootstrap.svg" height="35" width="auto" /></a>
   &nbsp;
 <!--   <a href="" title="React"><img src="svgs/React.svg" height="35" width="auto" /></a>
