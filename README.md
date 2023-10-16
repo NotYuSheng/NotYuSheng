@@ -26,6 +26,8 @@
   &nbsp;
   <a href="" title="JavaScript"><img src="svgs/JavaScript.svg" height="35" width="auto" /></a>
   &nbsp;
+  <a href="" title="PHP"><img src="svgs/PHP.svg" height="35" width="auto" /></a>
+  &nbsp;
   <a href="" title="Java"><img src="svgs/Java.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="" title="SQL"><img src="svgs/SQL.svg" height="35" width="auto" /></a>
