@@ -1,16 +1,44 @@
-# Hello! I'm Yu Sheng
+<p align="center">
+  <a href="https://github.com/notyusheng">
+      <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yu+Sheng;Researcher+%7C+App+Development;Web+%7C+AI+%7C+Cyber+Security" alt="Typing SVG" />
+  </a>
+  <br/>
+  
+  <a href="https://www.linkedin.com/in/yu-sheng-o-701a7b173/">
+      <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+  </a>
+  
+  <a href='https://scholar.google.com/citations?&user=hF0-7VEAAAAJ' target="_blank">
+      <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
+  </a>
+  
+  <a href="https://pypi.org/user/notyusheng/">
+      <img src="https://komarev.com/ghpvc/?username=notyusheng&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
+  </a>
+  <br/> 
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NotYuSheng&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+  <a href="https://github.com/notyusheng">
+      <img src="https://github-stats-alpha.vercel.app/api?username=notyusheng&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+  </a>
 
-## 🔥 GitHub Activity
+</p>
+
+<details>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notyusheng&theme=dark&include_all_commits=true&count_private=true)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notyusheng&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=notyusheng&theme=dark)
+
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=NotYuSheng&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 ![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=NotYuSheng&theme=dark)
-
-## 🏆 GitHub Trophies
-![Your GitHub trophies](https://github-profile-trophy.vercel.app/?username=NotYuSheng&theme=darkhub)
-
-## 📈 Most Used Languages
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=NotYuSheng&theme=darkhub)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotYuSheng&layout=compact)
+-->
+</details>
 
 <!-- ## Programming Languages -->
 
