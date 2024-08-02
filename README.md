@@ -1,15 +1,18 @@
-### Hello! I'm Yu Sheng
+# Hello! I'm Yu Sheng
 
-<img src="https://github-readme-stats.vercel.app/api?username=notyusheng&show_icons=true"/> 
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NotYuSheng&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/NotYuSheng) -->
+## 🏆 GitHub Trophies
+![Your GitHub trophies](https://github-profile-trophy.vercel.app/?username=NotYuSheng&theme=darkhub)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=notyusheng"/>
+## 📈 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotYuSheng&layout=compact)
 
-## Programming Languages
+<!-- ## Programming Languages -->
 
 <!-- Logos from https://seeklogo.com/ -->
-<p align="center">
+<!-- <p align="center">
   <a href="" title="Python"><img src="svgs/Python.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="" title="C"><img src="svgs/C.svg" height="35" width="auto" /></a>
@@ -34,7 +37,9 @@
   &nbsp;
   <a href="" title="XML"><img src="svgs/XML.svg" height="35" width="auto" /></a>
   &nbsp;
+-->
 <!--   <a href="" title="VMWare"><img src="svgs/VMWare.svg" height="35" width="auto" /></a> -->
+<!--
 </p>
 
 ## Software Application
@@ -43,6 +48,7 @@
   &nbsp;
 <!--   <a href="" title="React"><img src="svgs/React.svg" height="35" width="auto" /></a>
   &nbsp; -->
+<!--
   <a href="" title="Google Cloud Platform"><img src="svgs/Google-Cloud-Platform.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="" title="Firebase"><img src="svgs/Firebase.svg" height="35" width="auto" /></a>
@@ -66,3 +72,4 @@
   <a href="" title="Jupyter Notebook"><img src="svgs/Jupyter.svg" height="35" width="auto" /></a>
 
  </p>
+-->
