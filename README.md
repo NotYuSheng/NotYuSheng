@@ -13,30 +13,34 @@
   </a>
   
   <a href="https://github.com/NotYuSheng">
-      <img src="https://komarev.com/ghpvc/?username=notyusheng&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
+      <img src="https://komarev.com/ghpvc/?username=notyusheng&label=Visitors&color=0e75b6&style=flat"/>
   </a>
-  <br/> 
-
+  <br/>
+  
   <a href="https://github.com/NotYuSheng">
       <img src="https://github-stats-alpha.vercel.app/api?username=NotYuSheng&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
   </a>
 </p>
 
 <details>
-<summary>📈 Stats</summary>
-<br>
-My Github Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotYuSheng&theme=dark&include_all_commits=true&count_private=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NotYuSheng&theme=dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NotYuSheng&theme=dark)
+  <summary>📈 Stats</summary>
+  <br>
+  
+  <div align="center">
+    
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotYuSheng&theme=dark&include_all_commits=true&count_private=true)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NotYuSheng&theme=dark) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NotYuSheng&theme=dark)
+  
+  </div>
+</details>
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=NotYuSheng&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 ![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=NotYuSheng&theme=dark)
 ![GitHub trophies](https://github-profile-trophy.vercel.app/?username=NotYuSheng&theme=darkhub)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotYuSheng&layout=compact)
 -->
-</details>
+
 
 <!-- ## Programming Languages -->
 
