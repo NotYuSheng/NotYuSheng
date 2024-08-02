@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/notyusheng">
+  <a href="https://github.com/NotYuSheng">
       <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yu+Sheng;Researcher+%7C+App+Developer;Web+%7C+AI+%7C+Cyber+Security" alt="Typing SVG" />
   </a>
   <br/>
@@ -12,15 +12,14 @@
       <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
   </a>
   
-  <a href="https://pypi.org/user/notyusheng/">
+  <a href="https://github.com/NotYuSheng">
       <img src="https://komarev.com/ghpvc/?username=notyusheng&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
   </a>
   <br/> 
 
-  <a href="https://github.com/notyusheng">
+  <a href="https://github.com/NotYuSheng">
       <img src="https://github-stats-alpha.vercel.app/api?username=notyusheng&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
   </a>
-
 </p>
 
 <details>
