@@ -1,7 +1,10 @@
 # Hello! I'm Yu Sheng
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NotYuSheng&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NotYuSheng&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+## 🔥 GitHub Activity
+![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=NotYuSheng&theme=dark)
 
 ## 🏆 GitHub Trophies
 ![Your GitHub trophies](https://github-profile-trophy.vercel.app/?username=NotYuSheng&theme=darkhub)
