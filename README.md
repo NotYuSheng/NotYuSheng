@@ -18,7 +18,7 @@
   <br/> 
 
   <a href="https://github.com/NotYuSheng">
-      <img src="https://github-stats-alpha.vercel.app/api?username=notyusheng&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+      <img src="https://github-stats-alpha.vercel.app/api?username=NotYuSheng&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
   </a>
 </p>
 
@@ -27,10 +27,9 @@
 <br>
 My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notyusheng&theme=dark&include_all_commits=true&count_private=true)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notyusheng&theme=dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=notyusheng&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotYuSheng&theme=dark&include_all_commits=true&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NotYuSheng&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NotYuSheng&theme=dark)
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=NotYuSheng&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 ![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=NotYuSheng&theme=dark)
