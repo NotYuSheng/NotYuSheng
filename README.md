@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/notyusheng">
-      <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yu+Sheng;Researcher+%7C+App+Development;Web+%7C+AI+%7C+Cyber+Security" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yu+Sheng;Researcher+%7C+App+Developer;Web+%7C+AI+%7C+Cyber+Security" alt="Typing SVG" />
   </a>
   <br/>
   
