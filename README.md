@@ -4,7 +4,7 @@
   </a>
   <br/>
   
-  <a href="https://www.linkedin.com/in/yu-sheng-o-701a7b173/">
+  <a href="https://www.linkedin.com/in/yu-sheng-o/">
       <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
   </a>
   
