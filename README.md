@@ -28,9 +28,10 @@
   
   <div align="center">
     
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotYuSheng&theme=dark&include_all_commits=true&count_private=true)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotYuSheng&theme=dark)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NotYuSheng&theme=dark) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NotYuSheng&theme=dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NotYuSheng&theme=dark&utcOffset=8)
+  <!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NotYuSheng&theme=dark)-->
   
   </div>
 </details>
