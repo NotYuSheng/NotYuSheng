@@ -7,11 +7,9 @@
   <a href="https://www.linkedin.com/in/yu-sheng-o/">
       <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
   </a>
-  
   <a href='https://scholar.google.com/citations?&user=hF0-7VEAAAAJ' target="_blank">
       <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
   </a>
-  
   <a href="https://github.com/NotYuSheng">
       <img src="https://komarev.com/ghpvc/?username=notyusheng&label=Visitors&color=0e75b6&style=flat"/>
   </a>
@@ -28,9 +26,9 @@
   
   <div align="center">
     
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotYuSheng&theme=dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NotYuSheng&theme=dark) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NotYuSheng&theme=dark&utcOffset=8)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotYuSheng&theme=react)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NotYuSheng&theme=react) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NotYuSheng&theme=react&utcOffset=8)
   <!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NotYuSheng&theme=dark)-->
 
   <!--![](https://github-contributor-stats.vercel.app/api?username=NotYuSheng&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
