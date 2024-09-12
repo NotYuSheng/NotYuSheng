@@ -6,24 +6,22 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yu+Sheng;Researcher+%7C+App+Developer;Web+%7C+AI+%7C+Cyber+Security&color=000000" alt="Typing SVG">
   </picture>
   <br/>
-
-  <a href="https://www.linkedin.com/in/yu-sheng-o/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://scholar.google.com/citations?&user=hF0-7VEAAAAJ" style="text-decoration: none;">
-    <img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF">
-  </a>
-  <a href="https://github.com/NotYuSheng" style="text-decoration: none;">
-    <img src="https://komarev.com/ghpvc/?username=notyusheng&label=Visitors&color=0e75b6&style=flat" alt="Visitors">
-  </a>
+  <a href="https://www.linkedin.com/in/yu-sheng-o/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://scholar.google.com/citations?&user=hF0-7VEAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF"></a>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=notyusheng&label=Visitors&color=0e75b6&style=flat" alt="Visitors"></a>
   <br/>
-  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-alpha.vercel.app/api?username=NotYuSheng&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
     <source media="(prefers-color-scheme: light)" srcset="https://github-stats-alpha.vercel.app/api?username=NotYuSheng&cc=f7f7f7&bc=ffff">
     <img src="https://github-stats-alpha.vercel.app/api?username=NotYuSheng" alt="GitHub Stats">
   </picture>
 </p>
+
+<!--
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yu-sheng-o/)
+[![Google Scholar](https://img.shields.io/badge/Scholar-100000?style=flat-square&logo=GoogleScholar&logoColor=white)](https://scholar.google.com/citations?&user=hF0-7VEAAAAJ)
+[![GitHub Visitor](https://komarev.com/ghpvc/?username=notyusheng&label=Visitors&color=0e75b6&style=flat)](#)
+-->
 
 <details>
   <summary>📈 Stats</summary>
