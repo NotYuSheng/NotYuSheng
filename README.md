@@ -1,7 +1,7 @@
 <p align="center">
   <!-- https://readme-typing-svg.demolab.com/ -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yu+Sheng;Researcher+%7C+App+Developer;Web+%7C+AI+%7C+Cyber+Security&color=ffffff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yu+Sheng;Researcher+%7C+App+Developer;Web+%7C+AI+%7C+Cyber+Security">
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yu+Sheng;Researcher+%7C+App+Developer;Web+%7C+AI+%7C+Cyber+Security&color=000000">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yu+Sheng;Researcher+%7C+App+Developer;Web+%7C+AI+%7C+Cyber+Security&color=000000" alt="Typing SVG">
   </picture>
