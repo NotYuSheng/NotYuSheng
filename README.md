@@ -1,23 +1,28 @@
 <p align="center">
-  <a href="https://github.com/NotYuSheng">
-      <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yu+Sheng;Researcher+%7C+App+Developer;Web+%7C+AI+%7C+Cyber+Security" alt="Typing SVG" />
+  <!-- https://readme-typing-svg.demolab.com/ -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yu+Sheng;Researcher+%7C+App+Developer;Web+%7C+AI+%7C+Cyber+Security&color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yu+Sheng;Researcher+%7C+App+Developer;Web+%7C+AI+%7C+Cyber+Security&color=000000">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yu+Sheng;Researcher+%7C+App+Developer;Web+%7C+AI+%7C+Cyber+Security&color=000000" alt="Typing SVG">
+  </picture>
+  <br/>
+
+  <a href="https://www.linkedin.com/in/yu-sheng-o/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://scholar.google.com/citations?&user=hF0-7VEAAAAJ" style="text-decoration: none;">
+    <img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF">
+  </a>
+  <a href="https://github.com/NotYuSheng" style="text-decoration: none;">
+    <img src="https://komarev.com/ghpvc/?username=notyusheng&label=Visitors&color=0e75b6&style=flat" alt="Visitors">
   </a>
   <br/>
   
-  <a href="https://www.linkedin.com/in/yu-sheng-o/">
-      <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-  </a>
-  <a href='https://scholar.google.com/citations?&user=hF0-7VEAAAAJ' target="_blank">
-      <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
-  </a>
-  <a href="https://github.com/NotYuSheng">
-      <img src="https://komarev.com/ghpvc/?username=notyusheng&label=Visitors&color=0e75b6&style=flat"/>
-  </a>
-  <br/>
-  
-  <a href="https://github.com/NotYuSheng">
-      <img src="https://github-stats-alpha.vercel.app/api?username=NotYuSheng&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-alpha.vercel.app/api?username=NotYuSheng&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-alpha.vercel.app/api?username=NotYuSheng&cc=f7f7f7&bc=ffff">
+    <img src="https://github-stats-alpha.vercel.app/api?username=NotYuSheng" alt="GitHub Stats">
+  </picture>
 </p>
 
 <details>
@@ -26,9 +31,23 @@
   
   <div align="center">
     
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotYuSheng&theme=react)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NotYuSheng&theme=react) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NotYuSheng&theme=react&utcOffset=8)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotYuSheng&theme=react">
+    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotYuSheng&theme=swift">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotYuSheng&theme=default" alt="Profile Details">
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NotYuSheng&theme=react">
+    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NotYuSheng&theme=swift">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NotYuSheng&theme=default" alt="Repos per Language">
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NotYuSheng&theme=react&utcOffset=8">
+    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NotYuSheng&theme=swift&utcOffset=8">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NotYuSheng&theme=default&utcOffset=8" alt="Productive Time">
+  </picture>
   <!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NotYuSheng&theme=dark)-->
 
   <!--![](https://github-contributor-stats.vercel.app/api?username=NotYuSheng&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
