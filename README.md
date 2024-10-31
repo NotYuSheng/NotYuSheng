@@ -6,8 +6,10 @@
     <img src="" alt="Typing SVG">
   </picture>
   <br/>
+  <!-- https://github.com/inttter/md-badges -->
   <a href="https://www.linkedin.com/in/yu-sheng-o/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://scholar.google.com/citations?&user=hF0-7VEAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF"></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/8e7d31c6-6924-49c6-bfc6-8e7255c2b16b"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white"></a>
   <a href="#"><img src="https://komarev.com/ghpvc/?username=notyusheng&label=Visitors&color=0e75b6&style=flat" alt="Visitors"></a>
   <br/>
   <picture>
