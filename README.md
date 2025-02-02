@@ -11,7 +11,7 @@
   <a href="https://scholar.google.com/citations?&user=hF0-7VEAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF"></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/8e7d31c6-6924-49c6-bfc6-8e7255c2b16b"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white"></a>
   <a href="https://www.hackerrank.com/profile/NotYuSheng"><img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&logo=HackerRank&logoColor=white"></a>
-  <a href="https://leetcode.com/u/NotYuSheng/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"></a>
+  <!--<a href="https://leetcode.com/u/NotYuSheng/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"></a>-->
   <a href="#"><img src="https://komarev.com/ghpvc/?username=notyusheng&label=Visitors&color=0e75b6&style=flat" alt="Visitors"></a>
   <br/>
   <picture>
