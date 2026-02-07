@@ -47,7 +47,7 @@ I’m offering free development for open-source software projects
 (preferably full-stack web apps, but open to others).
 
 👉 **Submit a project proposal here:**  
-https://docs.google.com/forms/d/e/1FAIpQLScyHTGbWdxI-zy6luT-QUOxXdRmTT0ttpkEqm1cJISOIBfiHQ/viewform
+https://forms.gle/8Mi2FBaTWp1pbjFM7
 
 
 <!--
