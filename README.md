@@ -43,12 +43,13 @@
   </div>
 </details>
 
+<!--
 I’m offering free development for open-source software projects  
 (preferably full-stack web apps, but open to others).
 
 👉 **Submit a project proposal here:**  
 https://forms.gle/8Mi2FBaTWp1pbjFM7
-
+-->
 
 <!--
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yu-sheng-o/)
